@@ -5,7 +5,7 @@
 brand: "LeHoC"
 
 # text below the brand name
-brand_sub_text: "$site_终是少年拉满弓，不惧岁月不惧风"
+brand_sub_text: "终是少年拉满弓，不惧岁月不惧风"
 
 # used for seo meta post author (if it's not defined in post)
 name: "LeHoC"
@@ -21,7 +21,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "少年游"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
